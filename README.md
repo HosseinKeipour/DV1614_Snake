@@ -1,6 +1,6 @@
 # DV1614_Snake
 
-Assignment 2: Snake!
+Snake!
 (Not to be confused with python, another kind of snake)
 Scope: 1.5hp
 
