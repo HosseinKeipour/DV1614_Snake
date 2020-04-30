@@ -1,4 +1,4 @@
-# DV1614_Assignment-2_Snake
+# DV1614_Snake
 
 Assignment 2: Snake!
 (Not to be confused with python, another kind of snake)
